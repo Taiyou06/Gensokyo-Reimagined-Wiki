@@ -1,6 +1,6 @@
 site_name: Gensokyo Reimagined Wiki
-docs_dir: './en'
-site_dir: './generated/en'
+docs_dir: './en/'
+site_dir: './generated/en/'
 
 nav:
     - Home: index.md
