@@ -7,4 +7,4 @@ and download these as well:
 # Hosting Locally
 - Download github desktop, go to repository click on the `Code` and `Open with github desktop`
 - Open up CMD and cd to where repository is (for example `cd C:\Users\Taiyou\Desktop\Github Repo\Gensokyo-Reimagined-Wiki`
-- after that type `mkdocs server` to host it locally
+- after that type `mkdocs serve` to host it locally
