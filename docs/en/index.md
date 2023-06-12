@@ -10,7 +10,7 @@ This wiki should provide everything you need to know about the server!
 
 ## Server info
 
-**Version: 1.19.x and 1.20 in the future**\
+**Version: 1.19.x and 1.20 in the future**<br>
 **Survival Ip:** play.gensokyoreimagined.net
 
 Patreon: [https://www.patreon.com/gensokyoreimagined](https://www.patreon.com/gensokyoreimagined)
