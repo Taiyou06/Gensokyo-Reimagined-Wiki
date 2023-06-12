@@ -35,8 +35,8 @@ nav:
 
 theme:
   name: material
-  favicon: img&video/icon.png
-  logo: img&video/icon.png
+  favicon: overrides/assets/icon.png
+  logo: overrides/assets/icon.png
   language: fr
   icon:
     admonition:
@@ -70,12 +70,15 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search:                                         
-      lang: fr 
+      lang: en 
   - i18n:
+      default_language: fr
       languages:
         en:
           name: English
+          link: ./en/
           build: true
         fr:
           name: Français
+          link: ./fr/
           build: true

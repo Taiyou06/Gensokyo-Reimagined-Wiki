@@ -1,5 +1,5 @@
 site_name: Gensokyo Reimagined Wiki
-docs_dir: './docs/en'
+docs_dir: './en'
 site_dir: './generated/en'
 
 nav:
@@ -35,8 +35,8 @@ nav:
 
 theme:
   name: material
-  favicon: img&video/icon.png
-  logo: img&video/icon.png
+  favicon: overrides/assets/icon.png
+  logo: overrides/assets/icon.png
   language: en
   icon:
     admonition:
@@ -72,11 +72,14 @@ plugins:
   - search:                                         
       lang: en 
   - i18n:
+      default_language: en
       languages:
         en:
           name: English
+          link: ./en/
           build: true
         fr:
           name: Français
+          link: ./fr/
           build: true
 
