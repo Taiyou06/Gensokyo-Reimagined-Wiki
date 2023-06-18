@@ -1,14 +1,11 @@
-<!--
-Tabs are broken! Reminder to fix them!
--->
-
 # Common Touhou Mobs
 
 Most common mobs come in 4 types: <mark style="color:yellow;">yellow</mark>, <mark style="color:red;">red</mark>, <mark style="color:blue;">blue</mark> and <mark style="color:green;">green</mark>.
 
-## Basic Fairies
 
-<!-- Tabs containing info on fairies -->
+## Basic Fairies
+<!-- Pictures of all four fairies go up here -->
+
 === "Universal Statistics"
     <!-- AS SEEN IN HTML -->
     <p>The 4 basic fairies have similar statistics and behaviours.
@@ -55,7 +52,9 @@ Most common mobs come in 4 types: <mark style="color:yellow;">yellow</mark>, <ma
     * Nature's Fragment (1-2 Items with 35% chance)
     * Spiritual Branch (1-2 Items with 10% chance)
 
+
 ## Phantoms
+<!-- Pictures of all 4 phantoms go here! -->
 
 === "Universal Statistics"
     The 4 phantoms have similar stats and behaviours.
