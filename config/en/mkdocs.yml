@@ -35,8 +35,8 @@ nav:
 
 theme:
   name: material
-  favicon: overrides/assets/icon.png
-  logo: overrides/assets/icon.png
+  favicon: ./assets/icon.png
+  logo: ./assets/icon.png
   language: en
   icon:
     admonition:

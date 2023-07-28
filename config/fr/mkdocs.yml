@@ -70,9 +70,8 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search:                                         
-      lang: en 
+      lang: fr 
   - i18n:
-      default_language: fr
       languages:
         en:
           name: English

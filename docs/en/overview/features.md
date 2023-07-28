@@ -16,10 +16,10 @@ We all know gensokyo has a lot of verticality. With this feature we can add unli
 
 Pretty self explanatory but with this plugin there are more than 50+ custom fish to catch and sell!
 
-<img src="/img&video/fish1.gif" width="350" height="189" />
-<img src="/img&video/fish2.gif" width="350" height="189" />
-<img src="/img&video/fish3.gif" width="350" height="189" />
-<img src="/img&video/lava_fishing.gif" width="350" height="189" />
+<img src="/overrides/assets/fish1.gif" width="350" height="189" />
+<img src="/overrides/assets/fish2.gif" width="350" height="189" />
+<img src="/overrides/assets/fish3.gif" width="350" height="189" />
+<img src="/overrides/assets/lava_fishing.gif" width="350" height="189" />
 <figure><figcaption><p>Fishing minigames</p></figcaption></figure>
 
 <figure><img src="/img&video/sellfish.gif" alt=""><figcaption><p>Selling the fishes</p></figcaption></figure>

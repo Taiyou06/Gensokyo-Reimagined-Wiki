@@ -2,7 +2,8 @@
 Follow this guide for initial setup: https://www.mkdocs.org/user-guide/installation/
 and download these as well:
 - https://pypi.org/project/mkdocs-video/
-- https://pypi.org/project/mkdocs-i18n/
+- https://github.com/ultrabug/mkdocs-static-i18n
+- https://github.com/squidfunk/mkdocs-material
 
 # Hosting Locally
 - Download github desktop, go to repository click on the `Code` and `Open with github desktop`
