@@ -35,7 +35,7 @@ nav:
 
 theme:
   name: material
-  favicon: ./assets/icon.png
+  favicon: ./overrides/assets/icon.png
   logo: ./assets/icon.png
   language: en
   icon:
@@ -67,8 +67,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
 plugins:
-  - mkdocs-video
+  - mkdocs-video:
   - search:                                         
       lang: en 
   - i18n:
@@ -76,7 +77,7 @@ plugins:
       languages:
         en:
           name: English
-          link: ./en/
+          link: ./config/en/
           build: true
         fr:
           name: Français
