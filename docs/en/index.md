@@ -13,16 +13,17 @@ This wiki should provide everything you need to know about the server!
 **Version: 1.19.x and 1.20 in the future**<br>
 **Survival Ip:** play.gensokyoreimagined.net
 
-Patreon: [https://www.patreon.com/gensokyoreimagined](https://www.patreon.com/gensokyoreimagined)
 
 ## Socials
 
+Website: [gensokyoreimagined.net](https://www.gensokyoreimagined.net/)
+
 Discord: [https://discord.gg/U9fZSJJcte](https://discord.gg/U9fZSJJcte)
 
-Twitter: [https://twitter.com/greimaginedsmp](https://twitter.com/greimaginedsmp)
+Twitter: [twitter.com/greimaginedsmp](https://twitter.com/greimaginedsmp)
 
-##Support us!
+## Support us!
 
-Patreon: [https://www.patreon.com/gensokyoreimagined](https://www.patreon.com/gensokyoreimagined)
+Patreon: [www.patreon.com/gensokyoreimagined](https://www.patreon.com/gensokyoreimagined)
 
-BuyMeACoffe: [https://www.buymeacoffee.com/greimagined](https://www.buymeacoffee.com/greimagined)
+BuyMeACoffe: [www.buymeacoffee.com/greimagined](https://www.buymeacoffee.com/greimagined)
