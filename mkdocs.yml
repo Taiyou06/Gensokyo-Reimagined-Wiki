@@ -32,8 +32,14 @@ nav:
       - Ore Rates: server-guide/ore-rates.md
     - Helping the server:
       - Art/Resourcepack:
-        - About Art Team: helping-the-server/art/aboutartteam.md
+        - About the Art Team: helping-the-server/art/aboutartteam.md
         - Artist Guides: helping-the-server/art/artistguides.md
+      - Building:
+        - About the Build Team: helping-the-server/building/about-the-build-team.md
+        - Guides: helping-the-server/building/guides.md
+      - Design:
+        - About the Design Team: helping-the-server/Design/about-the-design-team.md
+      - For Developers: helping-the-server/for-developers.md
 
 
 theme:
@@ -88,16 +94,8 @@ plugins:
           name: English
           link: ./en/
           build: true
-        fr:
-          name: Français
-          link: ./fr/
-          build: true
 extra:
   alternate:
     - name: English
       link: ./en/ 
       lang: en
-    - name: Français
-      link: ./fr/
-      lang: fr
-

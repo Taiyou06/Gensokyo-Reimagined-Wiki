@@ -1,5 +1,7 @@
 # Classes, skills, and attributes
 
+# ALL OF THE SAID STUFF HERE IS OUTDATED IT'LL BE RE-WRITTEN
+
 _"The first step to becoming stronger is finding out you had 7 unspent points that you could've used on hyper-buffing that attack stat." -cheese_
 
 When you first join, you'll start with:

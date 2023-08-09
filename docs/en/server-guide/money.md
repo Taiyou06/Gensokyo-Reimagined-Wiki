@@ -1,6 +1,6 @@
 # Getting money
 
-"_See that shiny gold coin next to your hunger bar? Text that says `¥0.00`? That's your balance! Yup. That means you're broke! It's time to earn some money!" -cheese_
+"_See that shiny gold coin next to your hunger bar? Text that says `¥0.00`? That's your balance! Yup. That means you're broke! It's time to earn some money!"_
 
 Money is measured in Yen (¥), the currency used in Japan. You don't need to know much else about it really, besides the fact that it's also the currency used here in Gensokyo.
 

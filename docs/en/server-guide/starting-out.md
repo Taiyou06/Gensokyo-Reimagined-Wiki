@@ -1,5 +1,7 @@
 # 📪 Starting out
 
+# ALL OF THE SAID STUFF HERE IS OUTDATED IT'LL BE RE-WRITTEN
+
 ## Step 1 - Picking your class
 
 This is probably one of the most important choice that you make in the begining.<br>

@@ -4,21 +4,14 @@
 
 Model Engine is a plugin that lets us use `Minecraft: Bedrock Edition` entity models and animation on the server.
 
-They have a great wiki here:
-
-{% embed url="https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model" %}
+They have a great wiki [here](https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model)
 
 ## Modelling & Texturing Tips
 
 Some of these guides will guide you to stay true to minecraft's style and will teach you how to use [Blockbench](https://www.blockbench.net/).
 
-{% embed url="https://www.blockbench.net/wiki/guides/blockbench-overview-tips" %}
-Overview tips for Blockbench
-{% endembed %}
+Blockbench overview can be found [here](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) and style guide in [here](https://www.blockbench.net/wiki/guides/minecraft-style-guide/)
 
-{% embed url="https://www.blockbench.net/wiki/guides/minecraft-style-guide/" fullWidth="false" %}
-Minecraft Style Guide
-{% endembed %}
 
 ### Recommended Blockbench Plugins:
 
