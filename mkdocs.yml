@@ -30,12 +30,16 @@ nav:
       - Classes, skills and attributes: server-guide/classes-skills.md
       - Getting Money: server-guide/money.md
       - Ore Rates: server-guide/ore-rates.md
+    - Helping the server:
+      - Art/Resourcepack:
+        - About Art Team: helping-the-server/art/aboutartteam.md
+        - Artist Guides: helping-the-server/art/artistguides.md
 
 
 theme:
   name: material
-  favicon: ./overrides/assets/icon.png
-  logo: ./overrides/assets/icon.png
+  favicon: ./overrides/assets/icon.svg
+  logo: "./overrides/assets/icon.svg"
   language: en
   icon:
     admonition:
