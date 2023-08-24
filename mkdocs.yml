@@ -1,66 +1,65 @@
 site_name: Gensokyo Reimagined Wiki
 nav:
-    - Home: index.md
-    - FAQ: faq.md
-    - Features: overview/features.md
-    - Rules: 
+  - Home: index.md
+  - FAQ: faq.md
+  - Features: overview/features.md
+  - Rules:
       - Rules Overview: rules/rules.md
-      - Moderation Decisions: 
-        - Decisions Overview: rules/moderationdecisions.md
-        - Grief: rules/grief.md
-        - Harrasment:
-          - Excessive PVP: rules/excessivepvp.md
-          - Disrespecting Others: rules/disrespectingothers.md
-        - Hacking: rules/hacking.md
-        - Exploit Abuse: rules/exploitabuse.md
-        - Chat:
-          - Excessive swearing/hate speech: rules/Swear&Hate.md
-          - Spam: rules/spam.md
-        - Ban Circumvention: rules/bancircumvention.md
-    - Server Guide:
+      - Moderation Decisions:
+          - Decisions Overview: rules/moderationdecisions.md
+          - Grief: rules/grief.md
+          - Harrasment:
+              - Excessive PVP: rules/excessivepvp.md
+              - Disrespecting Others: rules/disrespectingothers.md
+          - Hacking: rules/hacking.md
+          - Exploit Abuse: rules/exploitabuse.md
+          - Chat:
+              - Excessive swearing/hate speech: rules/Swear&Hate.md
+              - Spam: rules/spam.md
+          - Ban Circumvention: rules/bancircumvention.md
+  - Server Guide:
       - Resources:
-        - Fishing Resources: server-guide/fishing-resources.md
-        - Crop Resources: server-guide/crop-resources.md
-        - Drop Resources: server-guide/drop-resources.md
+          - Fishing Resources: server-guide/fishing-resources.md
+          - Crop Resources: server-guide/crop-resources.md
+          - Drop Resources: server-guide/drop-resources.md
       - Mobs:
-        - Wildlife Mobs: server-guide/wildlife-mobs.md
-        - Touhou Mobs: server-guide/touhou-mobs.md
-        - Bosses: server-guide/bosses.md
+          - Wildlife Mobs: server-guide/wildlife-mobs.md
+          - Touhou Mobs: server-guide/touhou-mobs.md
+          - Bosses: server-guide/bosses.md
       - Starting Out: server-guide/starting-out.md
       - Classes, skills and attributes: server-guide/classes-skills.md
       - Getting Money: server-guide/money.md
       - Ore Rates: server-guide/ore-rates.md
-    - Helping the server:
+  - Helping the server:
       - Art/Resourcepack:
-        - About the Art Team: helping-the-server/art/aboutartteam.md
-        - Artist Guides: helping-the-server/art/artistguides.md
+          - About the Art Team: helping-the-server/art/aboutartteam.md
+          - Artist Guides: helping-the-server/art/artistguides.md
       - Building:
-        - About the Build Team: helping-the-server/building/about-the-build-team.md
-        - Guides: helping-the-server/building/guides.md
+          - About the Build Team: helping-the-server/building/about-the-build-team.md
+          - Guides: helping-the-server/building/guides.md
       - Design:
-        - About the Design Team: helping-the-server/Design/about-the-design-team.md
+          - About the Design Team: helping-the-server/Design/about-the-design-team.md
       - For Developers: helping-the-server/for-developers.md
-
 
 theme:
   name: material
   favicon: ./overrides/assets/icon.svg
-  logo: "./overrides/assets/icon.svg"
+  logo: './overrides/assets/icon.svg'
   language: en
   icon:
     admonition:
-      <type>: material/pencil 
+      <type>: material/pencil
   features:
     - navigation.instant
   palette:
-    - media: "(prefers-color-scheme: light)"
+    - media: '(prefers-color-scheme: light)'
       scheme: default
       primary: pink
       accent: indigo
       toggle:
         icon: material/toggle-switch-off
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
+    - media: '(prefers-color-scheme: dark)'
       scheme: slate
       primary: pink
       accent: indigo
@@ -81,21 +80,106 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
 plugins:
   - mkdocs-video:
-  - search:                                         
-      lang: en 
+  - search:
+      lang: en
   - i18n:
       default_language: en
       docs_structure: folder
+      material_alternate: false
       languages:
         en:
           name: English
           link: ./en/
           build: true
+        fr:
+          name: français
+          link: ./fr/
+          build: true
+        cs:
+          name: čeština
+          link: ./cs/
+          build: true
+        de:
+          name: Deutsch
+          link: ./de/
+          build: true
+        el:
+          name: ελληνικά
+          link: ./el/
+          build: true
+        es:
+          name: español
+          link: ./es/
+          build: true
+        it:
+          name: italiano
+          link: ./it/
+          build: true
+        ja:
+          name: 日本語
+          link: ./ja/
+          build: true
+        pl:
+          name: polski
+          link: ./pl/
+          build: true
+        ru:
+          name: русский
+          link: ./ru/
+          build: true
+        tr:
+          name: Türkçe
+          link: ./tr/
+          build: true
+        uk:
+          name: українська
+          link: ./uk/
+          build: true
+        zh-CN:
+          name: 简体中文
+          link: ./zh_Hans/
+          build: true
 extra:
   alternate:
     - name: English
-      link: ./en/ 
+      link: ./en/
       lang: en
+    - name: français
+      link: ./fr/
+      lang: fr
+    - name: čeština
+      link: ./cs/
+      lang: cs
+    - name: Deutsch
+      link: ./de/
+      lang: de
+    - name: ελληνικά
+      link: ./el/
+      lang: el
+    - name: español
+      link: ./es/
+      lang: es
+    - name: italiano
+      link: ./it/
+      lang: it
+    - name: 日本語
+      link: ./ja/
+      lang: ja
+    - name: polski
+      link: ./pl/
+      lang: pl
+    - name: русский
+      link: ./ru/
+      lang: ru
+    - name: Türkçe
+      link: ./tr/
+      lang: tr
+    - name: українська
+      link: ./uk/
+      lang: uk
+    - name: 简体中文
+      link: ./zh_Hans/
+      lang: zh-CN
