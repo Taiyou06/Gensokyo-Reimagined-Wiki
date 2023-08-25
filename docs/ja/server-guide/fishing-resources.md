@@ -1,5 +1,7 @@
 ## List of fish and sell values
-Each type of fish has a different value that they can be sold at. Values in <mark style="color:blue;">blue</mark> are for Silver Star rarities. Values in <mark style="color:yellow;">yellow</mark> are for Gold Star rarities.
+Each type of fish has a different value that they can be sold at. Values in
+<mark style="color:blue;">blue</mark> are for Silver Star rarities. Values in
+<mark style="color:yellow;">yellow</mark> are for Gold Star rarities.
 
 * Cod (¥10)
 * Salmon (¥10)
