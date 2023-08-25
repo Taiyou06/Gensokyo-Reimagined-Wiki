@@ -138,9 +138,9 @@ plugins:
           name: українська
           link: ./uk/
           build: true
-        zh-CN:
+        zh:
           name: 简体中文
-          link: ./zh_Hans/
+          link: ./zh/
           build: true
 extra:
   alternate:
@@ -181,5 +181,5 @@ extra:
       link: ./uk/
       lang: uk
     - name: 简体中文
-      link: ./zh_Hans/
-      lang: zh-CN
+      link: ./zh/
+      lang: zh

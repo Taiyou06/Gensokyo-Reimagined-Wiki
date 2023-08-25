@@ -6,8 +6,6 @@ Money is measured in Yen (¥), the currency used in Japan. You don't need to kno
 
 There are three primary methods of acquiring money: [fishing](money.md#fishing), [selling items](money.md#selling-items), and [quests](money.md#quests).
 
-
-
 ## Fishing
 
 Cast a line and relax by the water, try and catch a fish or two. Or instead, get on the grindset and get that hard earned cash!
@@ -19,9 +17,8 @@ Selling fish is a different process from selling resources. To sell fish, use th
 <p>Refer to <a href="/server-guide/fishing-resources">this page</a> to go more in depth in fishing!</p>
 
 <!-- fishing demonstration clip, currently dont know how to make it work again so ill omit this
-<figure><img src="../../.gitbook/assets/fishingdemo.gif" alt=""><figcaption><p>A fishing demo by yours truly! Look at that skill! The finesse!</p></figcaption></figure>
+<figure><img src="/overrides/assets/fishingdemo.gif" alt=""><figcaption><p>A fishing demo by yours truly! Look at that skill! The finesse!</p></figcaption></figure>
 -->
-
 
 ## Selling items
 
@@ -36,9 +33,9 @@ _Check out_ [_The Caverns_](the-caverns-wip.md) _for more details on mining and 
 -->
 
 <!-- image models dont work yet i need to import thiss
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Selling 8 redstone dust for ¥8.</p></figcaption></figure>
+<figure><img src="/overrides/assets/image (14).png" alt=""><figcaption><p>Selling 8 redstone dust for ¥8.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Arrows can be sold for ¥5 each!</p></figcaption></figure>
+<figure><img src="/overrides/assets/image (11).png" alt=""><figcaption><p>Arrows can be sold for ¥5 each!</p></figcaption></figure>
 -->
 
 ## Quests
@@ -50,5 +47,5 @@ The most notable quest is the daily quest. You can complete it every day to earn
 To start a quest, simply left click any of quests.
 
 <!-- Aaaah more media that i dont know how to fix
-<figure><img src="../../.gitbook/assets/daily_quest.png" alt=""><figcaption><p>The daily quest: do some chores! Chop some wood, stab some zombies. Get to it!</p></figcaption></figure>
+<figure><img src="/overrides/assets/daily_quest.png" alt=""><figcaption><p>The daily quest: do some chores! Chop some wood, stab some zombies. Get to it!</p></figcaption></figure>
 -->
