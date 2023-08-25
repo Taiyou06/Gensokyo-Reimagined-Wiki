@@ -2,18 +2,22 @@
 
 ## **Custom Weather Seasons/Events**
 
-We've very fast and super flexiable weather system and weather events with temprature to make survival little bit intresting
+We've very fast and super flexiable weather system and weather events with
+temprature to make survival little bit intresting
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138911333937590372/season.webp" width="720" height="480" alt=""><figcaption><p>Winter and Spring</p></figcaption></figure>
 
 ## **Deeper World**
 
-We all know gensokyo has a lot of verticality. With this feature we can add unlimitted sections to a world that teleports and syncs! (it also syncs minecarts)
+We all know gensokyo has a lot of verticality. With this feature we can add
+unlimitted sections to a world that teleports and syncs! (it also syncs
+minecarts)
 
 
 ## **Custom Fishing**
 
-Pretty self explanatory but with this plugin there are more than 50+ custom fish to catch and sell!
+Pretty self explanatory but with this plugin there are more than 50+ custom fish
+to catch and sell!
 
 <img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138927224750358568/fish1_opti2.gif" width="350" height="189" />
 <img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138927223672422422/fish2_optimized.gif" width="350" height="189" />
@@ -32,6 +36,9 @@ You can choose your class accordingly to races in touhou!
 
 ## **Smithing and Enchanting**
 
-The server features new crafting stations like the smeltery with over 20 new recipes available to enhance the classic crafting experience, you can upgrade items crafted in the smeltery at the blacsmith anvil, we also have a bunch of custom enchants made at the Arcane Table(classic enchanting table is disabled).
+The server features new crafting stations like the smeltery with over 20 new
+recipes available to enhance the classic crafting experience, you can upgrade
+items crafted in the smeltery at the blacsmith anvil, we also have a bunch of
+custom enchants made at the Arcane Table(classic enchanting table is disabled).
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138901684861534218/tables.jpg" width="720" height="480" alt=""><figcaption><p>Smeltery, Arcane Table and Blacksmith Anvil</p></figcaption></figure>

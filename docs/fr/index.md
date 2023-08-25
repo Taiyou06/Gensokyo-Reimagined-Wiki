@@ -10,8 +10,9 @@ This wiki should provide everything you need to know about the server!
 
 ## Server info
 
-**Version: 1.19.x and 1.20 in the future** `<br>` **Survival Ip:**
+**Version: 1.19.x and 1.20 in the future**<br> **Survival Ip:**
 play.gensokyoreimagined.net
+
 
 ## Socials
 
