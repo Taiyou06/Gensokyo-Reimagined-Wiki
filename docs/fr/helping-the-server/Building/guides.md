@@ -1,27 +1,29 @@
 ---
-description: >- Please make sure to read all of these before moving onto the
-rest. The hope is that eventually every builder on the server will have
-knowledge from these guides
+description: >- Veuillez vous assurer de lire tous ces éléments avant de passer
+au reste. Nous souhaitons qu'à terme, chaque builder sur le serveur aura accès
+aux connaissances de ces guides.
 ---
 
 # 💻 Guides
 
 ### Builder's Utilities
 
-Use `/bu` to open the menu. You may toggle options from there. Everything is
-pretty self-explanatory, so play around with it yourself. Most notable are:
+Utilisez `/bu` pour ouvrir le menu. Vous pouvez changer les options à partir de
+là. Tout est assez explicite. Les plus notables sont :
 
-* `/nc` for noclip (fly through walls)
-* `/nv` for toggle night vision
-* Shift right click on glazed terracotta to rotate it
-* Right click iron trap doors
-* Smart half slab breaking
+* `/nc` pour noclip (voler a travers les murs)
+* `/nv` pour activer la vision nocturne
+* Faites un clic droit sur la terre cuite vernissée (ou glazed terracotta)pour
+  la faire pivoter
+* Clique droits sur les trappes en fer
+* Cassage des dalles sur le même block
 
-### General Resources
-These pages will help you lear get efficent with building plugins!
+### Ressources générales
+Ces pages vous aideront à apprendre à devenir efficace avec la création de
+plugins !
 
-- [World Edit
-  Wiki](https://intellectualsites.github.io/fastasyncworldedit-documentation/)
-- [Arceon Wiki](https://github.com/Brennian/Arceon/wiki)
-- [Voxel Sniper
-  Wiki](https://intellectualsites.github.io/fastasyncvoxelsniper-documentation)
+- [Wiki World
+  Edit](https://intellectualsites.github.io/fastasyncworldedit-documentation/)
+- [Wiki Arceon](https://github.com/Brennian/Arceon/wiki)
+- [Wiki Voxel
+  Sniper](https://intellectualsites.github.io/fastasyncvoxelsniper-documentation)

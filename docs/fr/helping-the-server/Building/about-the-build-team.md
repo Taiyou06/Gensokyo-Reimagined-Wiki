@@ -1,51 +1,57 @@
-# 👥 About the Build Team
+# 👥 À propos de l'équipe de construction
 
-### Purpose of the Build Team
+### Objectif de l'équipe de build
 
-* The purpose of the build team is to keep our map looking beautiful and ever
-  expanding! They are always working on new builds and structures to go into the
-  Gensokyo.
+* Le but de l'équipe de build est de garder notre map belle et en constante
+  expansion ! Ils travaillent toujours sur de nouvelles constructions et
+  structures pour Gensokyo.
 
-### Public
+### Publique
 
-* ~~Everyone is able to help the look of the Gensokyo in some way, for a start
-  we host build events every few weeks on the weekends where people can help
-  contribute to a concept the build team have set up and planned - these are
-  posted with a time in `#events`, make sure to get the **build events role** in
-  the `#channels & roles` channel to get pinged for these.~~ (will be added)
-* We also have a discord channel, `#map-discussion`, which everyone has access
-  to and can contribute ideas for things that should be built.
-* ~~We also have an area, `/warp FreeBuild`, which is an area for anyone to
-  build in and can be used for showcasing builds in your builder application.~~
-  (will be added)
+* ~~Tout le monde peut contribuer à l'apparence de Gensokyo d'une manière ou
+  d'une autre. Pour commencer, nous organisons des événements de construction
+  toutes les semaines lors du weekend où les gens peuvent contribuer à un
+  concept que l'équipe de construction a mis en place et planifié - ceux-ci sont
+  publiés avec une fois dans `#events`, assurez-vous d'obtenir le rôle **build
+  events** dans le channel`#channels &amp; role` pour recevoir un ping pour
+  ceux-ci.~~ (sera ajouté)
+* Nous avons également un chanel Discord, « #map-discussion », auquel tout le
+  monde a accès et peut apporter des idées sur les choses qui devraient être
+  construites.
+* ~~Nous avons également une zone, `/warp FreeBuild`, qui est une zone dans
+  laquelle tout le monde peut construire et qui peut être utilisée pour
+  présenter les builds dans votre formulaire de builder.~~ (sera ajouté)
 
-### Jr Builder
+### Builder Jr
 
-* You will need to apply in `#applications` using various builds from either
-  build events, builds in Free Build or from your own work to showcase your
-  skill.
-* Junior Builders will build smaller scale buildings across the Gensokyo and
-  help with smaller contributions towards larger projects.
-* They do not immediately have access to World Edit or any of the building
-  utensil plugins as they are abusable - however if the Builder is trusted and
-  needs them for a certain build we will give them the permissions.
-* To promote to a Builder, a Jr Builder needs to contribute often and gain
-  sufficient trust from the Staff and Build Lead
+* Vous devrez postuler dans `#applications` en utilisant divers builds
+  d'événements de construction, de Free Build ou de votre propre travail pour
+  montrer vos compétences.
+* Les Builders Jr construiront des bâtiments à plus petite échelle dans tout le
+  Gensokyo et apporteront de petites contributions à des projets plus
+  importants.
+* Ils n'ont pas immédiatement accès à World Edit ou à l'un des plugins
+  d'ustensiles de construction car ils sont susceptibles d'en abusés -
+  cependant, si le constructeur est digne de confiance et en a besoin pour une
+  certaine construction, nous leur donnerons les autorisations.
+* Pour être promu Builder, un builder junior doit contribuer souvent et gagner
+  suffisamment de confiance de la part du personnel et du responsable de build
 
-### Builder
+### Builder (ou contructeur)
 
-* Similar to Junior Builder but will have permanent access to World Edit and
-  building tools.
-* Will be contributing a bit more to the Gensokyo than Juniors and probably
-  working on bigger projects.
+* Semblable aux Junior mais ont un accès permanent à World Edit et aux outils de
+  construction.
+* Contribuent un peu plus a Gensokyo que les Juniors et travaille probablement
+  sur des projets plus importants.
 
-### Build Lead
+### Chef de construction (Chef de build)
 
-* In charge of the bigger projects, they will organize how they are run and who
-  is working on them.
-* They also are responsible for hosting build events and setting them up and
-  making sure all the requirements are met for them to happen.
-* Work closely with the Design and Dev team to make sure all gameplay aspects
-  are met.
-* In charge of the entire team and making sure the building progression in the
-  Gensokyo is going smoothly.
+* En charge des plus gros projets, ils organiseront leur déroulement et les
+  personnes qui y travaillent.
+* Ils sont également responsables des événements de construction, et de
+  s'assurer que toutes les conditions sont remplies pour qu'ils se produisent.
+* Travailler en étroite collaboration avec l'équipe de design et de
+  développement pour vous assurer que tous les aspects du gameplay sont
+  respectés.
+* En charge de toute l'équipe et veiller au bon déroulement de la construction
+  du Gensokyo.

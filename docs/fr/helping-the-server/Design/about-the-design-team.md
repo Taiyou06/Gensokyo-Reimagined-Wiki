@@ -8,7 +8,7 @@
 * They work together to discuss ideas and build the core systems and mechanics
   that can then be produced to create a unique playable server.
 
-### Public
+### Publique
 
 * The public will also have access to the `#polls` channel where they can
   respond to design surveys given out by the Senior Designer to get a better
