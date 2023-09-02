@@ -1,6 +1,6 @@
 # ⚔ Excessive PVP
 
-## **High**
+## **严重**
 
 * Repeatedly spawnkilling another player
 * Targeting another player over time, aka harrasment
