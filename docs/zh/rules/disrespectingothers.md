@@ -1,6 +1,6 @@
 # 🤨 Disrespecting others
 
-## **High**
+## **严重**
 
 * Threats
   * We can be more lenient if it's obviously a joke, but if you're repeatedly
