@@ -1,6 +1,6 @@
-# 🕵 Ban Circumvention
+# 🕵 规避封禁
 
-## **High**
+## **严重**
 
 !!! info Warning on both accounts and match the original punishment on alt
 account
