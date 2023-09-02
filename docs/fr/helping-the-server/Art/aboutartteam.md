@@ -1,32 +1,35 @@
-# 🎨 About the Art Team
+# 🎨 À propos de l'équipe des artistes
 
-Artists work mainly on the resourcepack, in many different ways. We use Discord
-to collaborate on the resourcepack, so anyone can help out without requesting
-anything from us.
+Les artistes travaillent principalement sur le pack de ressources, de
+différentes manières. Nous utilisons Discord pour collaborer sur le pack de
+ressources, afin que tout le monde puisse nous aider sans rien nous demander.
 
-There are also pages in Notion to keep track of weapons or creatures in
-[here](https://www.notion.so/gensokyorealoaded/afc6a9450ab048debb45474e0819e138?v=19d48d004b8e49f19553356274f49e91)(items)
-and
-[here](https://www.notion.so/gensokyorealoaded/0f4aa9d48f3e45e5b61e2b49f9f504e2?v=64296c0854104e15b819c6a51687a8ba)(mobs)
+Il existe également des pages dans Notion pour suivre les armes ou les créatures
+dans
+[ici](https://www.notion.so/gensokyorealoaded/afc6a9450ab048debb45474e0819e138?v=19d48d004b8e49f19553356274f49e91)(items)
+et
+[ici](https://www.notion.so/gensokyorealoaded/0f4aa9d48f3e45e5b61e2b49f9f504e2?v=64296c0854104e15b819c6a51687a8ba)(mobs)
 
 ## Roles
 
-**Note:** You don't need to open an application for this role, just go in the
-#resourcepack-general channel on Discord and ask for help.
+**Remarque :** Vous n'avez pas besoin de faire un formulaire pour ce rôle, allez
+simplement sur le canal #resourcepack-general sur Discord et demandez de l'aide.
 
-#### <h3 style="color:purple;">Artist</h3>
+#### <h3 style="color:purple;">Artiste</h3>
 
-Artists draw textures for various things in the resourcepack. This includes
-mostly 2D designs such as GUIs, Items etc.
+Les artistes dessinent des textures pour diverses choses dans le pack de
+ressources. Cela inclut principalement des conceptions 2D telles que des
+interfaces graphiques, des éléments, etc.
 
-#### <h3 style="color:orange;">Modeller</h3>
+#### <h3 style="color:orange;">Modeleur</h3>
 
-Modellers mainly create custom mobs and weapons in 3D. Some people also
-specialize in creating textures for Mobs, Furnitures etc. in Blockbench.
+Les modélisateurs créent principalement des monstres et des armes personnalisés
+en 3D. Certaines personnes se spécialisent également dans la création de
+textures pour les monstres, les meubles, etc. dans Blockbench.
 
-### <h3 style="color:red;">Art Lead</h3>
+### <h3 style="color:red;">Responsable artistique</h3>
 
-Decides what the general look of the resourcepack should be and gets other
-artists to do stuff. Works with designers to figure out what models for things
-need to be done and gives that work out to artists and modellers to do. Can also
-make art and models of their own.
+Décide de l'apparence générale du pack de ressources et demande à d'autres
+artistes de faire des choses. Travaille avec les designeurs pour déterminer
+quels modèles doivent être réalisés et confie ce travail aux artistes et aux
+modéleurs. Peut également créer ses propres art et modèles.

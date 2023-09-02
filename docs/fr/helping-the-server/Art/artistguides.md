@@ -1,29 +1,29 @@
-# 🚩 Artist Guides
+# 🚩 Guides des artistes
 
-## Model Engine
+## Model engine
 
-Model Engine is a plugin that lets us use `Minecraft: Bedrock Edition` entity
-models and animation on the server.
+Model Engine est un plugin qui nous permet d'utiliser les modèles d'entités et
+les animations « Minecraft : Bedrock Edition » sur le serveur.
 
-They have a great wiki
-[here](https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model)
+Ils ont un super wiki
+[ici](https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model)
 
-## Modelling & Texturing Tips
+## Conseils de modélisation et de texturation
 
-Some of these guides will guide you to stay true to minecraft's style and will
-teach you how to use [Blockbench](https://www.blockbench.net/).
+Certains de ces guides vous aideront à rester fidèle au style de Minecraft et
+vous apprendront à utiliser [Blockbench](https://www.blockbench.net/).
 
-Blockbench overview can be found
-[here](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) and
-style guide in
-[here](https://www.blockbench.net/wiki/guides/minecraft-style-guide/)
+La présentation de Blockbench est trouvable
+[ici](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) et le
+guide de style
+[ici](https://www.blockbench.net/wiki/guides/minecraft-style-guide/)
 
 
-### Recommended Blockbench Plugins:
+### Plugins Blockbench recommandés :
 
-* **Brush Color Randomizer:** If you are doing your textures in blockbench this
-  will help with giving materials a variation and depth.
-* **Optimize:** This will help with clearing the unused block faces for better
-  performance to players.
-* **Brush Plus:** This will add custom bursh feature as well as cutomization to
-  brushes.
+* **Brush Color Randomizer :** Si vous créez vos textures dans Blockbench, cela
+  vous aidera à donner aux matériaux une variation et une profondeur.
+* **Optimize :** Cela aidera à effacer les faces de bloc inutilisées pour de
+  meilleures performances pour les joueurs.
+* **Brush Plus :** Cela ajoutera une fonctionnalité de pinceau personnalisée
+  ainsi qu'une personnalisation de ces pinceaux.

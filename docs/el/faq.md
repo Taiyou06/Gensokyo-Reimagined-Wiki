@@ -1,32 +1,45 @@
-## **Is there a map download?**
-No, because the map relies on the server's plugins to function. The map also keeps our project alive and we do not want to segment the community!
-Map is only given to people who knows what they are doing and they are contributing to the project one way or another.
+## **μπορείς να κατεβάσεις τον κόσμο;**
+Οχι, επειδή ο κόσμος χρειάζεται τους κωδικούς του σερβερ για να λειτουργήσει. Ο
+κόσμος επίσης κρατάει το σερβερ μας ζωντανό και δεν θέλουμε να σπάσουμε την
+κοινωνία μας στην μέση! ο κόσμος μπορεί να δοθεί μόνο σε άτομα που ξέρουν τι
+κάνουν και βοηθάναι με οποιοδήποτε τροπο.
 
-## **How big is the map?**
-Our map is 21 Km wide and 26 Km in length
+## **Πόσο μεγάλος είναι ο κόσμος;**
+Ο κόσμος μας είναι 21 χιλιόμετρα πλατύ και 26 χιλιόμετρα στο μήκος
 
-## **Is there a resource pack?**
-Yes, there is. When you first join you will be asked if you want to automatically download it whenever you join the server.
-You can also type `/pack` in-game to download the pack and avoid loading times
+## **Υπάρχει κανένα resource pack;**
+Ναι, υπάρχει. Όταν μπεις για πρώτη φορά θα σε ρωτήσει αμα θες να το κατεβάσεις
+αυτομάτος οταν μπαίνεις στο σερβερ.\
+Μπορείς επίσης να γράψεις `/pack` μέσα στο παιχνίδι για να κατεβάσεις το pack
+και να αποφεύγεις το το φώρτωμα όταν μπαίνεις
 
-## **How can I help?**
-There is always thing to help out with! Find more info at: [REPLACE ME IN THE FUTURE]
-Or ask in the respective channels!
+## **Πως μπορώ να βοηθήσω;**
+Πάντα υπάρχει κάτι που χρειαζώμαστε την βοήθεια σου! Μάθε περισότερα στο:
+[REPLACE ME rawr xd IN THE FUTURE] Ή ρώτα στα κανάλια που σχετίζονται με αυτό!
 
-## **How can I let you guys know about issues?**
-For quick reports on survival, use ⁠#bug-reports, or if it regards a moderation issue please contact the staff team in ⁠#staff-ticket.
+## **Πως μπορώ να σας πω για προβλήματα;**
+Για προβλήματα με σχεσή το survival, χρησιμοποιησε το κανάλι ⁠#bug-reports, αλλά
+αμα έχει να κάνει με την ομάδα του moderation, \
+επικοινωνήσε με το staff μας στο #staff-ticket.
 
-## **I took a cool picture, where can I post it?**
-We love this, just put them in ⁠#server-images, and we may use it for albums or galleries.
+## **Τράβηξα μια ωραία φωτογραφία, που μπορώ να την ανεβάσω?**
+Μας αρέσει αυτό, απλός βάλτες στο #server-images, και μπορεί να της
+χρησιμοποιήσουμε για αλμπουμ η για γκαλερί.
 
-## **Which social medias are you on?**
-We are on quite a few social medias, see `⁠#📌〡information` for all the links!
+## **Σε ποια social media μπορώ να σας βρω;**
+Μπορείτε να μας βρείτε σε πολά social media, δες `#📌〡information` για όλα τα
+λινκς!
 
-## **I can't join the server?**
-The server does not allow cracked accounts access to it, so that may be one reason. Otherwise please open a ticket in #staff-contact with a screenshot of the error-message you are getting, staff will help out as best they can.
+## **Δεν μπορώ να μπω στο σερβερ;**
+Το σερβερ δεν αφήνει λογαριασμούς που είναι cracked να μπούνε, και αυτό μπορεί
+να είναι ο λόγος. Αλλιός παρακαλούμε να ανοίξεις ένα ticket στο #staff-contact
+με μια φωτογραφία με το μήνημα -error που σου έβγαλε, το staff μας θα σας
+βοηθήσει όσο μπορεί.
 
-## **Does this server has chat reporting on?**
-No, and never will be.
+## **Έχει το σερβερ chat reporting;**
+Οχι, και δεν θα έχει πότε.
 
-## **I'm experiencing some connection issues?**
-Yes, that might be case for wifi and slow internet users. We are highly recommending either Ethernet or fast 5GHz or above internet connections.
+## **Έχω θέματα με την σύνδεση στο σερβερ;**
+Ναι, αυτό μπορεί να είναι ένα πρόβλημα με αυτούς με αργό internet ή αυτούς με
+wifi. Συνιστούμε να χρησιμοποιείτε Ethernet ή γρήγορο 5GHz και άνο σύνδεσεις στο
+internet.
