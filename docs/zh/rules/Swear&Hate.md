@@ -4,7 +4,7 @@ May be related to [Harassment](excessivepvp.md)
 
 In general, avoid using more than two swear words in one message
 
-## **High**
+## **严重**
 
 - Repeated racial slurs or other forms of hate speech
   - For example, no hard Rs, but for the most part your intent is more
