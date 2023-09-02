@@ -1,6 +1,6 @@
 # 📣 Spam
 
-## **High**
+## **严重**
 
 - Spamming links to harmful websites
 - Repeated self-advertising
