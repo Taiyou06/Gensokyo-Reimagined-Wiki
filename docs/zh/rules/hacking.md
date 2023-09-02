@@ -2,7 +2,7 @@
 
 Levels of hacking grouped by severity
 
-## **High**
+## **严重**
 
 Use of hacks that give a major advantage over others, examples:
 
