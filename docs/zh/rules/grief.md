@@ -9,7 +9,7 @@ Some examples of what can and can't be done: A town cannot be owned by one
 singular person if many have contributed to it. You can't claim an entire
 layer/section/landmarks/community hubs.
 
-## **High**
+## **严重**
 
 * Repeated grief of a specific area
 * Obvious destruction of multiple houses
