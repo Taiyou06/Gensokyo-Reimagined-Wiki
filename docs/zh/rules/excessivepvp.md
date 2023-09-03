@@ -1,16 +1,15 @@
-# ⚔ Excessive PVP
+# ⚔ 过度玩家间对战（PVP）
 
 ## **严重**
 
-* Repeatedly spawnkilling another player
-* Targeting another player over time, aka harrasment
-* Killing other players in NoPvP areas by use of lava etc.
+* 反复蹲出生点击杀另一名玩家
+* 刻意针对某一位玩家，也可称作骚扰
+* 通过放置岩浆等手段在非对战区域杀害其它玩家。
 
-!!! info Warn: "Do not disrespect other members of the community" or "Do not
-disrespect moderators"
-
-
-!!! warning After 1 warnings, tempban for 3 day, 1 week, 1 month
+!!! info 口头警告：“请尊重其他社区成员”或“请尊重管理员”
 
 
-!!! danger Perm ban based on severity and if other rules are broken
+!!! warning 在首次警告后，处以3天，1周，或是1个月的临时封禁
+
+
+!!! danger 视严重程度和是否同时违法了其它规则考虑施以永久封禁
