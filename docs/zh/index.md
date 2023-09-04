@@ -6,7 +6,7 @@ description: Welcome to Gensokyo Reimagined Wiki!
 
 ## 概述
 
-此WIki将提供关于本服务器你所需了解的一切（大概）！
+此WIki提供了关于本服务器你所需了解的一切（大概）！
 
 ## 服务器信息
 
