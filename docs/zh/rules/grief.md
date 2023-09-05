@@ -1,4 +1,4 @@
-# 💣 Grief
+# 💣 毁坏他人财产（熊）
 
 While players are allowed to make houses that others can't grief (this rule
 extends to all player structures), they may not claim absurdly large parts of
@@ -9,10 +9,10 @@ Some examples of what can and can't be done: A town cannot be owned by one
 singular person if many have contributed to it. You can't claim an entire
 layer/section/landmarks/community hubs.
 
-## **High**
+## **严重**
 
-* Repeated grief of a specific area
-* Obvious destruction of multiple houses
+* 反复破坏某一特定区域
+* 显著毁坏多栋房屋
 
 !!! warning If there is a chance of misunderstanding, and this is a first major
 offence, look in medium
@@ -22,11 +22,11 @@ offence, look in medium
 intent, permanent ban: "Griefing is not allowed on this server"
 
 
-## **Medium**
+## **中等**
 
-* Killing of pet animals
-* Threatening to grief
-* Making lavacasts / "lavafalls" not a part of a build
+* 杀死他人驯服的动物
+* 威胁要破坏他人财产
+* 制造并不属于建筑的一部分的岩浆流/岩浆“瀑布”
 
 !!! warning Tempban 1-3 day, 1-2 week, 1 month, escalate if repeated
 
@@ -35,9 +35,9 @@ intent, permanent ban: "Griefing is not allowed on this server"
 the day/week/month bans if the next offence fits into high.
 
 
-## **Low**
+## **轻微**
 
-* Breaking farms and not replanting
+* 毁坏农田而不补种
 
 !!! info Warn: "Please be a bit more careful with other players' builds and
 avoid "

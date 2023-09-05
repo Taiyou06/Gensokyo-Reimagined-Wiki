@@ -1,12 +1,10 @@
-# 🕵 Ban Circumvention
+# 🕵 规避封禁
 
-## **High**
+## **严重**
 
-!!! info Warning on both accounts and match the original punishment on alt
-account
+!!! info 同时警告两个账号，并将对原账号的处罚同步到小号上
 
 
-!!! warning Double the length of existing punishment on original account or IP
-ban. \
-Example: Original ban - 5 days \
-Extend original ban by another 5 days, and ban alt account for 10 days
+!!! warning 超级加倍对原账号或IP地址的封禁时间。\
+例如：原始封禁时间 - 5天\
+将对原账号的封禁时间延长5天，并封禁小号10天

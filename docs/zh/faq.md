@@ -1,40 +1,32 @@
-## **Is there a map download?**
-No, because the map relies on the server's plugins to function. The map also
-keeps our project alive and we do not want to segment the community! Map is only
-given to people who knows what they are doing and they are contributing to the
-project one way or another.
+## **可以下载地图吗？**
+不可以，因为本地图依赖于服务器插件来正常工作。而且，该地图也让我们的项目保持活力，我们不希望分割社区！因此，地图只会提供给那些为项目做出过贡献，且清楚自己在干什么的人。
 
-## **How big is the map?**
-Our map is 21 Km wide and 26 Km in length
+## **地图有多大？**
+我们的地图有26公里长，21公里宽。
 
-## **Is there a resource pack?**
-Yes, there is. When you first join you will be asked if you want to
-automatically download it whenever you join the server. You can also type
-`/pack` in-game to download the pack and avoid loading times
+## **服务器有资源包吗？**
+有的。你会在首次加入服务器的时候被询问是否自动下载资源包，不过你也可以选择在进游戏后输入`/pack`来手动下载它以缩短等待加载的时间。
 
-## **How can I help?**
+## **我能来帮忙吗？**
 There is always thing to help out with! Find more info at: [REPLACE ME IN THE
 FUTURE] Or ask in the respective channels!
 
-## **How can I let you guys know about issues?**
-For quick reports on survival, use ⁠#bug-reports, or if it regards a moderation
-issue please contact the staff team in ⁠#staff-ticket.
+## **我该如何向你们反馈问题呢？**
+如需快速报告生存服的漏洞，请使用 #bug-reports 频道；对于涉及到社区维护的问题，请在 #staff-ticket 频道联系我们的管理团队。
 
-## **I took a cool picture, where can I post it?**
+## **我拍了张很棒的照片，把它发在哪比较合适？**
 We love this, just put them in ⁠#server-images, and we may use it for albums or
 galleries.
 
-## **Which social medias are you on?**
-We are on quite a few social medias, see `⁠#📌〡information` for all the links!
+## **你们有哪些社交媒体？**
+我们只在少数几个社交平台上活跃，参见`#📌〡information`来查看所有的链接！
 
-## **I can't join the server?**
-The server does not allow cracked accounts access to it, so that may be one
-reason. Otherwise please open a ticket in #staff-contact with a screenshot of
-the error-message you are getting, staff will help out as best they can.
+## **我无法进入服务器？**
+这可能是由于该服务器不允许使用盗版（离线）账户进入。对于任何其它问题，请在 #staff-contact
+频道中创建工单，并附上您收到的错误信息的截图，我们的工作人员会尽力帮助您解决问题。
 
-## **Does this server has chat reporting on?**
-No, and never will be.
+## **此服务器有开启聊天举报吗？**
+不，永远都不会。
 
-## **I'm experiencing some connection issues?**
-Yes, that might be case for wifi and slow internet users. We are highly
-recommending either Ethernet or fast 5GHz or above internet connections.
+## **我遇到了一些连接问题？**
+是的，这也许是因为你正在使用无线网络或是你的网络连接较慢。我们强烈建议使用有线，5GHz无线或更快的网络连接。

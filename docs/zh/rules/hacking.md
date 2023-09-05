@@ -1,35 +1,35 @@
-# 💀 Hacking
+# 💀 作弊
 
-Levels of hacking grouped by severity
+根据作弊行为的严重程度分级
 
-## **High**
+## **严重**
 
-Use of hacks that give a major advantage over others, examples:
+进行能得到较大不公平优势的作弊，例如：
 
-* Fly
-* Killaura (probably a more severe form of [Excessive PVP](excessivepvp.md))
-* Nofall
-* Nuker
-* Baritone
+* 飞行
+* 自动攻击（可能被视为一种更严重形式的 [过度玩家间对战](excessivepvp.md)）
+* 免疫摔伤
+* 自动极速破坏周围的方块（人形自走核弹）
+* Baritone（一个自动寻路机器人模组）
 
-!!! danger Tempban 1 week, 1 month. This is if they are only hacking. If someone
-is using hacks to break other rules, you can be a lot more severe a lot faster.
-Escalate if used in combinaton (example, Fly and NoFall)
-
-
-!!! warning Permanent ban after repeated offenses
+!!! danger
+封禁1周或1个月，这只适用于仅仅是作弊的情况。如果有人在作弊的同时还破坏了其它规则，他将更快地受到更严重的处罚。若存在多种作弊行为，处罚将加算（如，飞行 +
+免疫摔伤）
 
 
-## **Low**
-
-Use of hacks that give a minor advantage over others, examples:
-
-* Any form of ESP
-* FastBreak
-* HighJump
-* Freecam
-
-!!! info Warn the first time
+!!! warning 屡次违规将被处以永久封禁
 
 
-!!! warning Tempban for 1-3 days, escalate afterwards
+## **轻微**
+
+进行能得到较小不公平优势的作弊，例如：
+
+* 任何形式的透视
+* 快速破坏方块
+* 超高跳跃
+* 自由视点
+
+!!! info 初犯只做警告
+
+
+!!! warning 封禁1-3天，之后随违规次数加重处罚

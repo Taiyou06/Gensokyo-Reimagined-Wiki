@@ -4,25 +4,24 @@ description: Welcome to Gensokyo Reimagined Wiki!
 
 # 👋 Gensokyo Reimagined
 
-## Overview
+## 概述
 
-This wiki should provide everything you need to know about the server!
+此WIki提供了关于本服务器你所需了解的一切（大概）！
 
-## Server info
+## 服务器信息
 
-**Version: 1.19.x and 1.20 in the future**<br> **Survival Ip:**
-play.gensokyoreimagined.net
+**版本：1.19.x（未来将更新至1.20）**<br> **生存服IP：play.gensokyoreimagined.net
 
 
-## Socials
+## 社区
 
-Website: [gensokyoreimagined.net](https://www.gensokyoreimagined.net/)
+官网：[gensokyoreimagined.net](https://www.gensokyoreimagined.net/)
 
 Discord: [https://discord.gg/U9fZSJJcte](https://discord.gg/U9fZSJJcte)
 
 Twitter: [twitter.com/greimaginedsmp](https://twitter.com/greimaginedsmp)
 
-## Support us!
+## 支持我们！
 
 Patreon:
 [www.patreon.com/gensokyoreimagined](https://www.patreon.com/gensokyoreimagined)

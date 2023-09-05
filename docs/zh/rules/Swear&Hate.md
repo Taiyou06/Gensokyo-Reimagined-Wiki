@@ -1,20 +1,16 @@
-# 😡 Excessive swearing/hate speech
+# 😡 过激的言语咒骂/仇恨言论
 
-May be related to [Harassment](excessivepvp.md)
+可能与 [骚扰](excessivepvp.md) 相关
 
-In general, avoid using more than two swear words in one message
+简而言之，避免在你发送的消息里夹杂太多脏话
 
-## **High**
+## **严重**
 
-- Repeated racial slurs or other forms of hate speech
-  - For example, no hard Rs, but for the most part your intent is more
-    important, though because one’s intent is subjective, it is fully up to the
-    mods to decide even if the other person disagrees.
-  - TL;DR for survival players: The more offensive you think it is, the higher
-    the chance of punishment even if you disagree.
-- Don’t say very bad taste and offensive "jokes". If you are unsure a joke is
-  allowed or not, don’t say it, as it probably isn’t.
+- 反复发表种族歧视或其它形式的仇恨言论
+  - 举个例子，比起发言内容本身是否真的很屎很谔谔，在绝大多数时候更重要的是你的意图如何，由于一个人的意图是主观的，这完全取决于管理员的判断，即使他人意见不同。
+  - 给只想摸生存服的玩家的简短版：说出你认为的攻击性越强的话，就越容易受到惩罚，即使你并不认同。
+- 不要开那种非常低俗非常冒犯的所谓“玩笑”。如果你不确定一个玩笑是否太过分，那就不要说，它很可能并不合适。
 
-!!! warning Mute for 3-5 days, 2 weeks, 1 month, Permanent mute
+!!! warning 禁言3-5天，2周，1个月，或是永久禁言
 
-!!! warning Tempban for 2-3 days, 1 week...
+!!! warning 封禁2-3天，或是1周等...

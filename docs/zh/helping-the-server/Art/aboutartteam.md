@@ -1,8 +1,6 @@
-# 🎨 About the Art Team
+# 🎨 关于美术团队
 
-Artists work mainly on the resourcepack, in many different ways. We use Discord
-to collaborate on the resourcepack, so anyone can help out without requesting
-anything from us.
+美术团队主要负责通过多种方式制作资源包，我们使用Discord来共同协作，所有人都可以来帮忙，无需向我们提出申请。
 
 There are also pages in Notion to keep track of weapons or creatures in
 [here](https://www.notion.so/gensokyorealoaded/afc6a9450ab048debb45474e0819e138?v=19d48d004b8e49f19553356274f49e91)(items)
