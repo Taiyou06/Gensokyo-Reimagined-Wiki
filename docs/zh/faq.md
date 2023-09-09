@@ -5,18 +5,16 @@
 我们的地图有26公里长，21公里宽。
 
 ## **服务器有资源包吗？**
-有的。你会在首次加入服务器的时候被询问是否自动下载资源包，不过你也可以选择在进游戏后输入`/pack`来手动下载它以缩短等待加载的时间。
+有的。你会在首次加入服务器的时候被询问是否自动下载资源包，不过你也可以在进游戏后输入`/pack`来手动下载它以缩短等待加载的时间。
 
-## **我能来帮忙吗？**
-There is always thing to help out with! Find more info at: [REPLACE ME IN THE
-FUTURE] Or ask in the respective channels!
+## **我能提供什么帮助么？**
+总会有事情是需要帮忙的！你可以在此[REPLACE ME IN THE FUTURE]找到更多信息，或是在各个频道询问！
 
 ## **我该如何向你们反馈问题呢？**
 如需快速报告生存服的漏洞，请使用 #bug-reports 频道；对于涉及到社区维护的问题，请在 #staff-ticket 频道联系我们的管理团队。
 
 ## **我拍了张很棒的照片，把它发在哪比较合适？**
-We love this, just put them in ⁠#server-images, and we may use it for albums or
-galleries.
+你做得好啊，把它们放到 #server-images 频道就好，我们也许会从中选出一些收进相册或者画廊。
 
 ## **你们有哪些社交媒体？**
 我们只在少数几个社交平台上活跃，参见`#📌〡information`来查看所有的链接！
