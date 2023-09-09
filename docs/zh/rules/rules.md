@@ -1,12 +1,11 @@
-# 📜 Rules
+# 📜 规则
 
-## Server Rules
+## 服务器规则
 
 Welcome to Gensokyo Reimagined! Below is a shortened list of rules for you to
 follow.
 
-A full version containing more specific punishments can be found in the
-[Moderation decision](moderationdecisions.md).
+要查看包含更具体处罚细节的完整规则，请见[管理规范](moderationdecisions.md)。
 
 Both of these pages only serve as guidelines for moderators. There may be
 special cases, but you are expected to follow the rules below at all times!
