@@ -1,13 +1,12 @@
-# ✨ **Our Features**
+# ✨ **我们的特色**
 
-## **Custom Weather Seasons/Events**
+## **定制的天气季节/气候事件**
 
-We've very fast and super flexiable weather system and weather events with
-temprature to make survival little bit intresting
+我们极其快速的动态天气系统和影响温度的气候事件给生存添加了一小笔色彩
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138911333937590372/season.webp" width="720" height="480" alt=""><figcaption><p>Winter and Spring</p></figcaption></figure>
 
-## **Deeper World**
+## **深入地底**
 
 We all know gensokyo has a lot of verticality. With this feature we can add
 unlimitted sections to a world that teleports and syncs! (it also syncs
