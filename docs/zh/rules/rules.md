@@ -7,54 +7,44 @@ follow.
 
 要查看包含更具体处罚细节的完整规则，请见[管理规范](moderationdecisions.md)。
 
-Both of these pages only serve as guidelines for moderators. There may be
-special cases, but you are expected to follow the rules below at all times!
+所有这些页面都仅作为对管理员的指导意见。实际执行可能存在特例，但你仍应该在任何时候都遵守以下规则！
 
-If you believe something may be against the rules, but it isn't explicitly
-stated (or something doesn't sound right), it is your responsibility to open a
-ticket in `#staff-contact`.
+如果你认为有些行为可能违反了规则，但并未被明确列出（或者某些地方感觉不太对），你有责任在 `#staff-contact` 创建工单报告它。
 
-## Other
+## 其它
 
-EXP farms in the form of custom mobs or other vanilla (cactus farms and so on)
-ones are not permitted, due to server lag issues. The same goes for farms for
-mob drops.
+为了防止服务器卡顿，不允许建造任何形式的经验农场，无论它是通过刷自定义生物还是以其它原版方式实现（如仙人掌农场等）。同理，建掉落物刷怪塔也不行。
 
-## Respect Others
+## 尊重他人
 
-* No griefing or stealing others’ belongings, private or not.
-* No harassment of others
-* No excessive swearing
-* Respect moderators
-* No repeated killing, or tricking others to their death
+* 不要破坏或偷窃其他玩家的财产，无论财产是否私有。
+* 不要骚扰他人
+* 不要过度嘴臭
+* 尊重管理人员
+* 不要频繁地击杀其他玩家，或诱导他们死亡
 
-### Do not circumvent bans
+### 不要规避封禁
 
-You are not allowed to use alts to get around punishments
+你不能开小号来躲避处罚
 
-## Do not abuse exploits
+## 不要滥用漏洞
 
-Report bugs `#bug-reports` on Discord.
+在Discord的 `#bug-reports` 频道报告错误/漏洞
 
-* If you are found exploiting a specific bug, you will be given a warning or
-  temporary ban depending on the severity, increasing in length with repeated
-  offenses.
-* More info
-  * If something happens to you randomly and or inconsistently, such as fall
-    damage sometimes not working, you should still report it; if, for example,
-    you know how to reproduce it, but we get that sometimes you can't really do
-    anything about it.
+* 假如你被发现利用一个特定的漏洞，视其严重程度，你将受到警告或是暂时的封禁，违规次数越多则封禁时间越长。
+* 更多信息
+  * 如果你碰上了一些随机的或反常的怪事，例如有时不会受到摔落伤害，只要你知道如何复现它，就仍然应该进行报告；不过，我们也明白，有时候你的确对问题无能为力。
   * In general, we aren't too severe with these unless it's blatant
     exploitation, such as item duplication.
-* **We ask that you delete any duped items you still have!**\
+* **我们会要求你移除任何你持有的复制出来的物品！**\
   \
-  See [Exploit abuse](exploitabuse.md).
+  参见[滥用漏洞](exploitabuse.md)。
 
-## Do not spam or advertise in chat
+## 不要在聊天里刷屏或发广告
 
-* Do not self advertise for the purpose of advertising
-* Do not send the same message repeatedly
-* Do not spam emotes
+* 不要做以打广告为目的的自我宣传
+* 不要重复发送同一信息
+* 不要滥刷表情
 
 This can also extend to DMs in some cases. Generally, you are free to talk about
 whatever you like in DMs, as long the other party is okay with it, but spamming
@@ -66,20 +56,19 @@ See [📢Spam](spam.md)
 
 Hacking is absolutely not allowed.
 
-You are not allowed to use hacked clients either, even if you aren't using any
-hacks
+你不能使用任何修改过的客户端，即使你并没有使用任何作弊
 
 Baritone and the likes are not allowed either
 
-Mods and or scripts for auto-fishing are not allowed either.
+像是自动钓鱼一类的模组或者脚本也是不允许的。
 
-* Allowed mods
-  * Anything provided by our launcher (soon:tm:)
+* 允许的模组
+  * 任何由我们的启动器（以后会有的™）所提供的模组
   * Farsight
   * Optifine
   * Replaymod
   * VR
-  * Minimaps & HUD enchancements
+  * 小地图 & 界面增强
   * Fullbright
   * Litematica and the like are allowed so long as the blocks are not
     automatically placed for you. Please avoid using it though.
