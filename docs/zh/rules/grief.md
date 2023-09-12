@@ -2,9 +2,7 @@
 
 尽管玩家有权建造不受他人破坏的房屋（这里泛指所有玩家建造的建筑结构），但他们也不能荒谬地宣称大片土地为己有，并阻止其他玩家进行修改。这是一个灰色地带，然而，如果确有此类情况出现，我们会逐个讨论。
 
-Some examples of what can and can't be done: A town cannot be owned by one
-singular person if many have contributed to it. You can't claim an entire
-layer/section/landmarks/community hubs.
+可以与不可的示例：一个由许多玩家共同贡献才建成的城镇不能归一人所有，你不能占据一整个层/区段/地标/社区中心。
 
 ## **严重**
 
@@ -21,9 +19,9 @@ layer/section/landmarks/community hubs.
 
 * 杀死他人驯服的动物
 * 威胁要搞破坏
-* 制造并不作为建筑的一部分的岩浆流/岩浆“瀑布”
+* 制造并不作为建筑的一部分的熔岩流/熔岩“瀑布”
 
-!!! warning Tempban 1-3 day, 1-2 week, 1 month, escalate if repeated
+!!! warning 封禁1-3天，1-2周，到1个月不等，随违规次数延长时间
 
 
 !!! danger to high afterwards, not necessary to specifically have gone through
@@ -34,7 +32,7 @@ the day/week/month bans if the next offence fits into high.
 
 * 毁坏农田而没有补种
 
-!!! info 口头警告：“请稍加留意其它玩家的建筑成果，避免这类情况再次发生"
+!!! info 给予警告：“请稍加留意其它玩家的建筑成果，避免这种事情再次发生"
 
 
-!!! warning If repeated offences continue (\~2 minor things), escalate to medium
+可以与不可以的示例：一个由许多玩家共同贡献而建成的城镇不能归一人所有，你不能占据一整个层/区段/地标/社区中心。
