@@ -8,7 +8,7 @@
 * Repeatedly ignoring requests from moderators
 * Repeatedly targetting any specific member with toxic comments, builds, etc...
 
-!!! info 口头警告：“请尊重其他社区成员”或“请尊重管理人员”
+!!! info 给予警告：“请尊重其他社区成员”或“请尊重管理人员”
 
 
 !!! warning After 1-2 warnings, tempmute for 1 day, 1 week, 1 month (if repeated
