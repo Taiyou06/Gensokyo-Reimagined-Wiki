@@ -7,14 +7,14 @@ temprature to make survival little bit intresting
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138911333937590372/season.webp" width="720" height="480" alt=""><figcaption><p>Winter and Spring</p></figcaption></figure>
 
-## **Deeper World**
+## **Daha Derin Bir Dünya**
 
 We all know gensokyo has a lot of verticality. With this feature we can add
 unlimitted sections to a world that teleports and syncs! (it also syncs
 minecarts)
 
 
-## **Custom Fishing**
+## **Özel Balıkçılık**
 
 Pretty self explanatory but with this plugin there are more than 50+ custom fish
 to catch and sell!
