@@ -5,8 +5,7 @@
 - 刷指向有害网站的链接
 - 反复的自我推销
 
-!!! warning Mute for appropriate length for repeated offence: 1-3 day, 1 week, 1
-month
+!!! warning 多次违规将处以适度时间的禁言：1-3天，1周，1个月
 
 !!! danger Permanent mute if this is repeated, if other [Harassment
 ](excessivepvp.md)present, a ban may be more suitable
