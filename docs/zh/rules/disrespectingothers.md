@@ -3,17 +3,14 @@
 ## **严重**
 
 * 威胁
-  * We can be more lenient if it's obviously a joke, but if you're repeatedly
-    joking at someone's expense, we will be a lot more strict
-* Repeatedly ignoring requests from moderators
-* Repeatedly targetting any specific member with toxic comments, builds, etc...
+  * 我们可以宽容那些明显的玩笑话，但倘若你总是嘲笑别人，我们就得严肃对待了
+* 屡次忽略来自管理员的请求
+* 反复针对任何特定成员恶语相向（无论是以评价，建筑，还是其它形式）
 
 !!! info 给予警告：“请尊重其他社区成员”或“请尊重管理人员”
 
 
-!!! warning After 1-2 warnings, tempmute for 1 day, 1 week, 1 month (if repeated
-offences are done through builds, ban for the time period instead of mute)
-depending on severity
+!!! warning 在1-2次警告后，禁言1天，1周或是一个月（如果是以建筑形式违规的，则以同等时间的封禁替代禁言），取决于严重程度
 
 
-!!! danger Temp or perm ban based on severity and repetition
+!!! danger 根据严重程度和违规次数将处于暂时或永久的封禁
