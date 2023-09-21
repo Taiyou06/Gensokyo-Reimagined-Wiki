@@ -1,12 +1,12 @@
 ---
-description: Welcome to Gensokyo Reimagined Wiki!
+description: 欢迎来到幻想乡：重现 Wiki！
 ---
 
-# 👋 Gensokyo Reimagined
+# 👋 幻想乡：重现
 
 ## 概述
 
-此WIki提供了关于本服务器你所需了解的一切（大概）！
+此WIki应当能提供关于本服务器你所需了解的一切！
 
 ## 服务器信息
 
