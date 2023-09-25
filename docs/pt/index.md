@@ -10,8 +10,8 @@ Essa wiki deve prover tudo o que você precisa saber sobre o servidor!
 
 ## Informações do Servidor
 
-**Versão: 1.19.x e 1.20 no futuro**<br>**Sobrevivência Ip:**
-play.gensokyoreimagined.net
+**Version:** 1.20.X <br> **Survival Ip:** play.gensokyoreimagined.net
+(In-Development) **Build IP:** build.gensokyoreimagined.net
 
 
 ## Sociais
