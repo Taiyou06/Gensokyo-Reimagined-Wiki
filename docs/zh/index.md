@@ -10,7 +10,8 @@ description: 欢迎来到幻想乡：重现 Wiki！
 
 ## 服务器信息
 
-**版本：1.19.x（未来将更新至1.20）**<br> **生存服IP：play.gensokyoreimagined.net
+**Version:** 1.20.X <br> **Survival Ip:** play.gensokyoreimagined.net
+(In-Development) **Build IP:** build.gensokyoreimagined.net
 
 
 ## 社区
