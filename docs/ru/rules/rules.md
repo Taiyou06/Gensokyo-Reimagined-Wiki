@@ -1,21 +1,21 @@
-# 📜 Rules
+# 📜 Правила
 
-## Server Rules
+## Правила Сервера
 
-Welcome to Gensokyo Reimagined! Below is a shortened list of rules for you to
-follow.
+Добро пожаловать на Gensokyo Reimagined! Ниже приведен сокращенный список
+правил, которым вы должны следовать.
 
-A full version containing more specific punishments can be found in the
-[Moderation decision](moderationdecisions.md).
+Полная версия, содержащая более конкретные наказания, может быть найдена в
+[Решения модерации](moderationdecisions.md).
 
-Both of these pages only serve as guidelines for moderators. There may be
-special cases, but you are expected to follow the rules below at all times!
+Обе эти страницы служат лишь руководством для модераторов. Возможны особые
+случаи, но от вас требуется постоянное следование приведенным ниже правилам!
 
-If you believe something may be against the rules, but it isn't explicitly
-stated (or something doesn't sound right), it is your responsibility to open a
-ticket in `#staff-contact`.
+Если вы считаете, что что-то может противоречить правилам, но это не указано в
+явном виде (или что-то звучит не так), вы должны открыть тикет в
+`#staff-contact`.
 
-## Other
+## Прочее
 
 EXP farms in the form of custom mobs or other vanilla (cactus farms and so on)
 ones are not permitted, due to server lag issues. The same goes for farms for
