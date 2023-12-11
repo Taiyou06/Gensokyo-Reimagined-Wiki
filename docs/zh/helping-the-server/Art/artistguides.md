@@ -1,29 +1,20 @@
-# 🚩 Artist Guides
+# 🚩 美术指引
 
 ## Model Engine
 
-Model Engine is a plugin that lets us use `Minecraft: Bedrock Edition` entity
-models and animation on the server.
+Model Engine是一个插件，它允许我们在服务器中使用`Minecraft: Bedrock Edition`才支持的实体模型和动画。
 
-They have a great wiki
-[here](https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model)
+[这儿](https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model)有一个很棒的介绍它的Wiki
 
-## Modelling & Texturing Tips
+## 建模 & 贴图绘制技巧
 
-Some of these guides will guide you to stay true to minecraft's style and will
-teach you how to use [Blockbench](https://www.blockbench.net/).
+这些指南将指引你如何使用[Blockbench](https://www.blockbench.net/)并制作符合Minecraft美术风格的内容。
 
-Blockbench overview can be found
-[here](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) and
-style guide in
-[here](https://www.blockbench.net/wiki/guides/minecraft-style-guide/)
+你可以在[这里](https://www.blockbench.net/wiki/guides/blockbench-overview-tips)找到关于Blockbench的概述，并在[此处](https://www.blockbench.net/wiki/guides/minecraft-style-guide/)查看美术风格指引
 
 
-### Recommended Blockbench Plugins:
+### 推荐的Blockbench插件：
 
-* **Brush Color Randomizer:** If you are doing your textures in blockbench this
-  will help with giving materials a variation and depth.
-* **Optimize:** This will help with clearing the unused block faces for better
-  performance to players.
-* **Brush Plus:** This will add custom bursh feature as well as cutomization to
-  brushes.
+* **Brush Color Randomizer：**如果你打算直接在BlockBench内绘制贴图，此插件将助你把材质做得更加多彩，更具立体感。
+* **Optimize：**此插件能辅助清除不必要的面，以减少玩家的性能开销。
+* **Brush Plus：**此插件添加了额外的笔刷，并允许你自定义笔刷。
