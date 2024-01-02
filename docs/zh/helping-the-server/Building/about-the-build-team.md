@@ -1,6 +1,6 @@
-# 👥 About the Build Team
+# 👥 关于建筑团队
 
-### Purpose of the Build Team
+### 建筑团队的目标
 
 * The purpose of the build team is to keep our map looking beautiful and ever
   expanding! They are always working on new builds and structures to go into the
