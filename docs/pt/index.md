@@ -27,5 +27,5 @@ Twitter: [twitter.com/greimaginedsmp](https://twitter.com/greimaginedsmp)
 Patreon:
 [www.patreon.com/gensokyoreimagined](https://www.patreon.com/gensokyoreimagined)
 
-Me compre um café:
+BuyMeACoffe:
 [www.buymeacoffee.com/greimagined](https://www.buymeacoffee.com/greimagined)

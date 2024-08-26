@@ -1,29 +1,29 @@
-# 🚩 Artist Guides
+# 🚩 Guide Per Gli Artisti
 
 ## Model Engine
 
-Model Engine is a plugin that lets us use `Minecraft: Bedrock Edition` entity
-models and animation on the server.
+Model Engine è un plugin che ci permette di usare i modelli entità e le
+animazioni di `Minecraft: Bedrock Edition` sul server.
 
-They have a great wiki
-[here](https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model)
+Hanno un ottimo wiki
+[qui](https://git.lumine.io/mythiccraft/modelengine/-/wikis/Making-your-first-model)
 
-## Modelling & Texturing Tips
+## Consigli per Modellazione e Texturing
 
-Some of these guides will guide you to stay true to minecraft's style and will
-teach you how to use [Blockbench](https://www.blockbench.net/).
+Alcune di queste guide ti aiuteranno a rimanere fedele allo stile di Minecraft e
+ti insegneranno come usare [Blockbench](https://www.blockbench.net/).
 
-Blockbench overview can be found
-[here](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) and
-style guide in
-[here](https://www.blockbench.net/wiki/guides/minecraft-style-guide/)
+Puoi trovare la panoramica su Blockbench
+[qui](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) e la
+guida di stile
+[qui](https://www.blockbench.net/wiki/guides/minecraft-style-guide/)
 
 
-### Recommended Blockbench Plugins:
+### Plugin Per Blockbench Consigliati:
 
-* **Brush Color Randomizer:** If you are doing your textures in blockbench this
-  will help with giving materials a variation and depth.
-* **Optimize:** This will help with clearing the unused block faces for better
-  performance to players.
-* **Brush Plus:** This will add custom bursh feature as well as cutomization to
-  brushes.
+* **Brush Color Randomizer:** Se stai realizzando le tue texture su Blockbench,
+  ti aiuterà a dare varietà e profondità ai materiali.
+* **Optimize:** Questo ti aiuterà ad eliminare le facce dei blocchi non
+  utilizzate per dare prestazioni migliori ai giocatori.
+* **Brush Plus:** Questo aggiungerà la funzione dei pennelli personalizzati
+  oltre che la personalizzazione di essi.
