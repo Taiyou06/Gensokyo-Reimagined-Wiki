@@ -1,8 +1,9 @@
-# 🎨 About the Art Team
+# 🎨 Sobre el Equipo de Arte
 
-Artists work mainly on the resourcepack, in many different ways. We use Discord
-to collaborate on the resourcepack, so anyone can help out without requesting
-anything from us.
+Nuestros artistas trabajan principalmente en el paquete de recursos de muchas
+maneras diferentes. Utilizamos Discord para colaborar en el paquete de recursos,
+así que cualquiera puede ayudar sugiriendo o pidiendo cualquier cosa de
+nosotros.
 
 There are also pages in Notion to keep track of weapons or creatures in
 [here](https://www.notion.so/gensokyorealoaded/afc6a9450ab048debb45474e0819e138?v=19d48d004b8e49f19553356274f49e91)(items)

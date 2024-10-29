@@ -1,40 +1,44 @@
-## **Is there a map download?**
-No, because the map relies on the server's plugins to function. The map also
-keeps our project alive and we do not want to segment the community! Map is only
-given to people who knows what they are doing and they are contributing to the
-project one way or another.
+## **¿Puedo descargar el mapa?**
+No, debido a que el mapa depende de plugins del servidor para funcionar. ¡El
+mapa también mantiene nuestro proyecto vivo y no queremos segmentar la
+comunidad! El mapa solo es dado a las personas que saben lo que hacen y que
+contribuyen al proyecto de una forma u otra.
 
-## **How big is the map?**
-Our map is 21 Km wide and 26 Km in length
+## **¿Qué tan grande es el mapa?**
+Nuestro mapa mide 21 Km de ancho y 26 Km de largo.
 
-## **Is there a resource pack?**
-Yes, there is. When you first join you will be asked if you want to
-automatically download it whenever you join the server. You can also type
-`/pack` in-game to download the pack and avoid loading times
+## **¿Hay algún pack de recursos?**
+Si, lo hay. La primera vez que entres se te preguntará si quieres descargarlo de
+forma automática cada vez que entres al server. También puedes escribir `/pack`
+dentro del juego para descargar el pack y evitar los tiempos de carga.
 
-## **How can I help?**
-There is always thing to help out with! Find more info at: [REPLACE ME IN THE
-FUTURE] Or ask in the respective channels!
+## **¿Cómo puedo ayudar?**
+Siempre hay una forma de ayudarnos! Encuentra más info en: [REPLACE ME IN THE
+FUTURE] O pregunta (en inglés) en los respectivos canales!
 
-## **How can I let you guys know about issues?**
-For quick reports on survival, use ⁠#bug-reports, or if it regards a moderation
-issue please contact the staff team in ⁠#staff-ticket.
+## **¿Cómo puedo hacer que se sepan los problemas o fallos que tenga?**
+Para reportar rápidamente algo del survival, utiliza #bug-reports, o en caso de
+que sea un problema de moderación, por favor contacte al equipo de staff en
+#staff-ticket.
 
-## **I took a cool picture, where can I post it?**
-We love this, just put them in ⁠#server-images, and we may use it for albums or
-galleries.
+## **Tomé una foto genial, ¿Dónde puedo mostrarla?**
+Nos encanta esto, simplemente envialas en #server-images, quizás las utilicemos
+para álbumes y galerías.
 
-## **Which social medias are you on?**
-We are on quite a few social medias, see `⁠#📌〡information` for all the links!
+## **¿En qué redes sociales puedo encontrarlos?**
+Estamos en diferentes redes sociales, revisa `#📌〡information` para ver todos los
+enlaces!
 
-## **I can't join the server?**
-The server does not allow cracked accounts access to it, so that may be one
-reason. Otherwise please open a ticket in #staff-contact with a screenshot of
-the error-message you are getting, staff will help out as best they can.
+## **¿No puedo entrar al servidor?**
+El servidor no permite el acceso a cuentas piratas o crackeadas, así que esa
+podría ser una razón. De otro modo, por favor abre un ticket en #staff-contact
+con una captura de pantalla del mensaje de error que estás recibiendo, el staff
+dará lo mejor para poder ayudarte.
 
-## **Does this server has chat reporting on?**
-No, and never will be.
+## **¿Este servidor tiene los reportes de chat activados?**
+No, y nunca los tendrá.
 
-## **I'm experiencing some connection issues?**
-Yes, that might be case for wifi and slow internet users. We are highly
-recommending either Ethernet or fast 5GHz or above internet connections.
+## **¿Estoy experimentando algunos problemas de conexión?**
+Si, ese podría ser el caso de los usuarios con WiFi e internet lentos.
+Recomendamos ampliamente utilizar ya sea Ethernet o 5GHz o conexiones a internet
+superiores.
