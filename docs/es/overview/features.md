@@ -1,23 +1,23 @@
-# ✨ **Our Features**
+# ✨ **Nuestros Añadidos**
 
-## **Custom Weather Seasons/Events**
+## **Temporadas del Año y Climas personalizados/Eventos**
 
-We've very fast and super flexiable weather system and weather events with
-temprature to make survival little bit intresting
+Tenemos un muy rápido y flexible sistema de climas y eventos climáticos con
+temperaturas para hacer el survival un poco más interesante
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138911333937590372/season.webp" width="720" height="480" alt=""><figcaption><p>Winter and Spring</p></figcaption></figure>
 
-## **Deeper World**
+## **Mundo Expandido**
 
-We all know gensokyo has a lot of verticality. With this feature we can add
-unlimitted sections to a world that teleports and syncs! (it also syncs
-minecarts)
+Todos sabemos que Gensokyo tiene mucha verticalidad. Con este añadido podemos
+añadir secciones ilimitadas en un mundo que se teletransporta y sincroniza!
+(También sincroniza los minecarts)
 
 
-## **Custom Fishing**
+## **Pesca Personalizada**
 
-Pretty self explanatory but with this plugin there are more than 50+ custom fish
-to catch and sell!
+Bastante entendible con solo leerlo pero con este plugin tenemos más de 50 peces
+personalizados para atrapar y vender!
 
 <img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138927224750358568/fish1_opti2.gif" width="350" height="189" />
 <img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138927223672422422/fish2_optimized.gif" width="350" height="189" />
@@ -27,18 +27,19 @@ to catch and sell!
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138927225060733028/sellfish_optimized.gif" width="720" height="480" alt=""><figcaption><p>Selling the fishes</p></figcaption></figure>
 
-## **Custom Classes**
+## **Clases Personalizadas**
 
-You can choose your class accordingly to races in touhou!
+¡Puedes elegir tu clase de acuerdo con las razas en touhou!
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138891923298472027/class.webp" width="720" height="480" alt=""><figcaption><p>Devil Class</p></figcaption></figure>
 
 
-## **Smithing and Enchanting**
+## **Herrería y Encantamientos**
 
-The server features new crafting stations like the smeltery with over 20 new
-recipes available to enhance the classic crafting experience, you can upgrade
-items crafted in the smeltery at the blacsmith anvil, we also have a bunch of
-custom enchants made at the Arcane Table(classic enchanting table is disabled).
+El server añade nuevas estaciones de trabajo como la fundidora con más de 20
+nuevas recetas disponibles para mejorar la experiencia clásica de crafteo,
+puedes mejorar ítems crafteados en la fundidora con el Blacksmith Anvil (Yunque
+de Herrero), también tenemos bastantes nuevos encantamientos obtenibles en la
+Arcane Table(Mesa Arcana)(El encantamiento clásico está deshabilitado).
 
 <figure><img src="https://cdn.discordapp.com/attachments/1013892135298273431/1138901684861534218/tables.jpg" width="720" height="480" alt=""><figcaption><p>Smeltery, Arcane Table and Blacksmith Anvil</p></figcaption></figure>
